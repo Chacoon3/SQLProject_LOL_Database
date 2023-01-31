@@ -2,4 +2,4 @@ Introduction
 
 This repository contains two files, DDL.sql contains the table definition commands, and DML.sql contains the sql queries.
 
-The project serves as a database that records the professional match, leagues, and player infomration of the video game League of Legends. It is scalable and concise.
+The project serves as a database that records the professional match, leagues, and player infomration of the video game League of Legends.
